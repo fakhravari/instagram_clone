@@ -14,6 +14,8 @@ Dependencies:
 ```
 <br/>
 
+https://github.com/fakhravari/instagram_clone/assets/4311975/9548e0b7-e55a-4ef1-979d-b13abe5e402e
+
 
 ## WebSite
 - [Fakhravari.ir](https://fakhravari.ir)
