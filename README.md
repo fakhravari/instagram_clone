@@ -20,4 +20,4 @@ https://github.com/fakhravari/instagram_clone/assets/4311975/9548e0b7-e55a-4ef1-
 ## WebSite
 - [Fakhravari.ir](https://fakhravari.ir)
 <br/>
-https://github.com/sasansafari/instagram_clone
+github.com/sasansafari
